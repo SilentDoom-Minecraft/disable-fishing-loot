@@ -1,6 +1,8 @@
 # Disable Fishing Loot Datapack
 
-Minecraft datapack which disables all fishing loot.
+![](https://img.shields.io/badge/Minecraft-1.19+-green)
+
+Disables all fishing loot by removing all drop tables. Players can still perform the action of fishing, but no items will be retrieved when reeled in.
 
 ## How To Install
 
